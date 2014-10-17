@@ -1,0 +1,32 @@
+body info {
+  float: right;
+  width: 48ex;
+  text-align: center;
+}
+
+body info ul {
+  list-style-type: none;
+  text-align: left;
+}
+
+body info button {
+  font-size: x-large;
+}
+
+body div {
+  height: 100%;
+  overflow-y: scroll;
+  font-family: monospace;
+}
+
+body div p {
+  margin: 0ex;
+}
+
+.startup {
+  background: #d0d0ff;
+}
+
+.shutdown {
+  background: #ffffd0;
+}
